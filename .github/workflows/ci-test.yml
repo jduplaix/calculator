@@ -1,4 +1,4 @@
-name: calculator
+name: calculator-test
 
 on:
   push:
