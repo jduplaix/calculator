@@ -1,6 +1,9 @@
 name: calculator
 
-on: [push]
+on:
+  push:
+    branches:
+    - "**"
 
 jobs:
   build:
